@@ -1,6 +1,6 @@
 # LinuxKernelAndDriver
 
-
+ The repo contains seperate source directories for kernel and drivers.
 
 
 
@@ -28,3 +28,11 @@
 # Driver Resources
 - Essential Linux Device Drivers (March, 2008)
 - LINUX DEVICE DRIVERS (Jonathan Corbet, Alessandro Rubini, and Greg Kroah-Hartman, 2005)
+
+
+# Video Tutorials
+- [Linux Channel](https://www.youtube.com/channel/UCESk3ORdKJ1iQGibV_XiHhw)
+
+
+# Linux Kernel Documentation
+- [Kernel Documentation](https://www.kernel.org/doc/html/latest/)
