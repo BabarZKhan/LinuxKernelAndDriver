@@ -1,0 +1,8 @@
+- General
+        - Advanced Programming in the UNIX ® Environment, Third Edition, 2013
+        - The Linux Programming inTerface (2010)
+
+
+- Networking
+        - Addison Wesley : UNIX Network Programming Volume 1, Third Edition: The Sockets Networking API (2003)
+        - UNIX Network Programming Volume 2, Second Edition: lnterprocess Communications (1998)
