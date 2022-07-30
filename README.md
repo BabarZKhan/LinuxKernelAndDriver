@@ -23,10 +23,10 @@ Driver Resources
 
 
 Kernel
-------
+-------------
 
 - Embedded
-         - Mastering Embedded Linux Programming (Chris Simmonds, December 2015)
+  - Mastering Embedded Linux Programming (Chris Simmonds, December 2015)
          
 
          
