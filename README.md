@@ -55,7 +55,7 @@ Kernel
   - UNIX Network Programming Volume 2 Second Edition lnterprocess Communications by W. Richard Stevens
   - Addison Wesley : UNIX Network Programming Volume 1, Third Edition: The Sockets Networking API, 2003
   - Beej's Guide to Unix IPC (December 2015)
-  -  TCP/IP Illustrated The Implementation Volume 2 W. Richard Stevens Gary R. Wright Addison-Wesley Professional
+  - TCP/IP Illustrated The Implementation Volume 2 W. Richard Stevens Gary R. Wright Addison-Wesley Professional
 
 
 
