@@ -11,6 +11,12 @@ Kernel Resources
 
 
 
+Build and Compile
+----------------
+Running the examples may not be straightforward as it need somes tuning. For apue source code please run the following commands:
+- `chmod u+x systype.sh`
+- `make` 
+- `chmod u+x fixup.awk`
 
 
 Driver Resources
