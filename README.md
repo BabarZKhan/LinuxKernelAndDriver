@@ -1,13 +1,12 @@
 # LinuxKernelAndDriver
 
- The repo contains seperate source directories for Linux kernel and driver programming.
+ The repo contains source code of the following Linux kernel and driver books:
+ 
+- Advanced Programming in the UNIX ® Environment
+- The Linux Programming Interface A Linux and UNIX® System Programming Handbook, 2010, Michael KerrisK
+- UNIX Network Programming Volume 2 Second Edition lnterprocess Communications by W. Richard Stevens 
+- LINUX DEVICE DRIVERS, THIRD EDITION, (Jonathan Corbet, Alessandro Rubini, and Greg Kroah-Hartman, 2005)
 
-
-
-Kernel Resources
-----------------
-- Drivers
-- Kernel 
 
 
 
@@ -19,12 +18,18 @@ Running the examples may not be straightforward as it need somes tuning. For apu
 - `chmod u+x fixup.awk`
 
 
-Driver Resources
+
+
+Linux (Unix) Resources
+----------------
+- Drivers
+- Kernel 
+
+
+Driver
 ----------------
 - Essential Linux Device Drivers (March, 2008)
 - LINUX DEVICE DRIVERS, THIRD EDITION, (Jonathan Corbet, Alessandro Rubini, and Greg Kroah-Hartman, 2005)
-
-
 
 
 
@@ -50,7 +55,8 @@ Kernel
   - Linux Kernel Programming (Kaiwan N Billimoria, 2021 Packt Publishing)
   - The Linux Programming Interface A Linux and UNIX® System Programming Handbook, 2010, Michael KerrisK    
   - UNIX PROGRAMMER’S MANUAL Fourth Edition, K. Thompson, D. M. Ritchie November, 1973
-
+  - Advanced Programming in the UNIX ® Environment
+  - MODERN OPERATING SYSTEMS FOURTH EDITION
 
 - Memory
   - Understanding the Linux® Virtual Memory Manager, Mel Gorman, 2004 Pearson Education,
@@ -66,9 +72,9 @@ Kernel
 
 
 
+
 - POSIX
   - Programming with POSIX® Threads
-
 
 
 
