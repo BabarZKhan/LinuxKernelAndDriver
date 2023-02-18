@@ -82,6 +82,7 @@ Linux Kernel Documentation
 --------------------------
 
 - [Kernel Documentation](https://www.kernel.org/doc/html/latest/)
+- [Linux Symposium Proceedings](https://www.kernel.org/doc/ols/)
 
 
 Contributing:
